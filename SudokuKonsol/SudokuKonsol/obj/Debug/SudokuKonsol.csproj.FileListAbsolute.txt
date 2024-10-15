@@ -1,0 +1,7 @@
+C:\Users\Emre\source\repos\SudokuKonsol\SudokuKonsol\bin\Debug\SudokuKonsol.exe.config
+C:\Users\Emre\source\repos\SudokuKonsol\SudokuKonsol\bin\Debug\SudokuKonsol.exe
+C:\Users\Emre\source\repos\SudokuKonsol\SudokuKonsol\bin\Debug\SudokuKonsol.pdb
+C:\Users\Emre\source\repos\SudokuKonsol\SudokuKonsol\obj\Debug\SudokuKonsol.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\SudokuKonsol\SudokuKonsol\obj\Debug\SudokuKonsol.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\SudokuKonsol\SudokuKonsol\obj\Debug\SudokuKonsol.exe
+C:\Users\Emre\source\repos\SudokuKonsol\SudokuKonsol\obj\Debug\SudokuKonsol.pdb
